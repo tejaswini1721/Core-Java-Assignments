@@ -10,4 +10,6 @@ Day 4 : Question no.33 - 43 ||
 
 Day 5 : Question no.44 - 47 ||
 
-Day 6 : Question no.48 - 49 
+Day 6 : Question no.48 - 49 ||
+
+Day 7 : Question no.50 - 51 || 
